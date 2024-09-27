@@ -28,5 +28,11 @@
         "title": "WC en CLINIC_HISTORY_TAB",
         "componentName": "my-extension",
         "url": "./main.js"
+    },{
+        "slot": "PATIENT_PROFILE",
+        "title": "WC en PATIENT_PROFILE",
+        "componentName": "my-extension",
+        "url": "./main.js"
     }
+    
 ]
