@@ -1,0 +1,32 @@
+[
+    {
+        "slot": "HOME_MENU",
+        "title": "WC en HOME_MENU",
+        "componentName": "my-extension",
+        "url": "./main.js"
+    },
+    {
+        "slot": "SYSTEM_HOME_PAGE",
+        "title": "WC en SYSTEM_HOME_PAGE",
+        "componentName": "my-extension",
+        "url": "./main.js"
+    },
+    {
+        "slot": "INSTITUTION_HOME_PAGE",
+        "title": "WC en INSTITUTION_HOME_PAGE",
+        "componentName": "my-extension",
+        "url": "./main.js"
+    },
+    {
+        "slot": "INSTITUTION_MENU",
+        "title": "WC en INSTITUTION_MENU",
+        "componentName": "my-extension",
+        "url": "./main.js"
+    },
+    {
+        "slot": "CLINIC_HISTORY_TAB",
+        "title": "WC en CLINIC_HISTORY_TAB",
+        "componentName": "my-extension",
+        "url": "./main.js"
+    }
+]
