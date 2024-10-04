@@ -3,7 +3,7 @@
         "slot": "HOME_MENU",
         "title": "Primer componente",
         "componentName": "ng-snake",
-        "url": "./https://gogakoreli.github.io/angular-snake-web-component/snake-web-component.js"
+        "url": "https://gogakoreli.github.io/angular-snake-web-component/snake-web-component.js"
     },
     {
         "slot": "HOME_MENU",
