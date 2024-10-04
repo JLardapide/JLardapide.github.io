@@ -54,7 +54,7 @@
               <div class="json-object">
                 ${storageHTML}
               </div>
-              <img src="./logo-HSI.png" alt="Imagen con url relativa"/>
+              <img src="./assets/custom/footer/footer_center.png" alt="Imagen con url relativa ./assets/custom/footer/footer_center.png"/>
             </div>
         `;
       return template;
